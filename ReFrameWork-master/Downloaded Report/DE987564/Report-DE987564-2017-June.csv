@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+607001,"Concierge Services",42340,8468,50808,USD,2017-06-16
+801320,"IT Support",157695,31539,189234,EUR,2017-06-01
+575053,"Waste management services",174658,34931.6,209590,RON,2017-06-18

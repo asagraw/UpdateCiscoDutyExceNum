@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+524459,"Concierge Services",105859,21171.8,127031,CAD,2017-12-04
+323042,"IT Support",194502,38900.4,233402,USD,2017-12-12
+940187,"Concierge Services",174398,34879.6,209278,CAD,2017-12-21
+647252,"Concierge Services",250836,50167.2,301003,RON,2017-12-09

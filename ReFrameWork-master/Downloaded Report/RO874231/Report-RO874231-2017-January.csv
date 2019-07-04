@@ -1,0 +1,6 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+167559,"IT Support",114298,22859.6,137158,CAD,2017-01-18
+113811,"Concierge Services",30406,6081.2,36487.2,EUR,2017-01-12
+119078,"IT Support",256063,51212.6,307276,CAD,2017-01-04
+915965,"Various paper supplies",223435,44687,268122,CAD,2017-01-09
+709118,"Waste management services",54060,10812,64872,USD,2017-01-26

@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+764239,"IT Support",2017-09-19,274694,54938.8,329633,EUR
+143533,"Beverages and Catering",2017-09-15,110136,22027.2,132163,CAD
+182458,"Waste management services",2017-09-02,142461,28492.2,170953,CAD

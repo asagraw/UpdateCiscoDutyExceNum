@@ -1,0 +1,4 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+902582,"Beverages and Catering",203076,40615.2,243691,RON,2017-01-10
+279818,"IT Support",150468,30093.6,180562,RON,2017-01-24
+644440,"Professional Services",160513,32102.6,192616,RON,2017-01-09

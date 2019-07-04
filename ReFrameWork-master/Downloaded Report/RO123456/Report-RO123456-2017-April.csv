@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+418100,"Professional Services",2017-04-24,46178,9235.6,55413.6,RON
+979528,"IT Support",2017-04-16,115040,23008,138048,CAD
+255398,"Beverages and Catering",2017-04-18,100669,20133.8,120803,RON
+524049,"Concierge Services",2017-04-14,140343,28068.6,168412,USD
